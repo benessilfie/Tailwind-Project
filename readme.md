@@ -9,8 +9,8 @@ This is a project I built to learn Tailwind CSS.
 Install dependencies (Tailwind)
 
 ```Javascript
-npm install
-```
+npm install**
+`**``
 
 Run the Tailwind CLI to compile the **input.css** during development. The output file is **css/main.css**
 
