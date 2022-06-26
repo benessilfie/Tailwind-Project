@@ -1,6 +1,6 @@
 # Tailwind Manage Landing Page [Frontendmentor]
 
-This is the project from my 2022 Tailwind Crash Course on YouTube.
+This is a project I built to learn Tailwind CSS.
 
 ![Alt text](/img/screen.png?raw=true)
 
